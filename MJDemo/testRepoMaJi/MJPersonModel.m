@@ -12,4 +12,7 @@
 - (void)personCanEat {
     NSLog(@"person can eat");
 }
+- (void)version {
+    NSLog(@"testRepoMaJi- V 1.0.2");
+}
 @end
